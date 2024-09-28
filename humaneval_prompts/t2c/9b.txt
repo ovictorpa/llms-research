@@ -1,0 +1,9 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def rolling_max(numbers: List[int]) -> List[int]:
+    """
+    From a given list of integers, generate a list of rolling maximum elements found up to each point in the sequence.
+    
+    >>> rolling_max([1, 2, 3, 2, 3, 4, 2])
+    [1, 2, 3, 3, 3, 4, 4]
+    """

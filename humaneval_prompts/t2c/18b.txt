@@ -1,0 +1,13 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def how_many_times(string: str, substring: str) -> int:
+    """
+    Find how many times a given substring can be found in the original string, counting overlapping cases.
+    
+    >>> how_many_times('', 'a')
+    0
+    >>> how_many_times('aaa', 'a')
+    3
+    >>> how_many_times('aaaa', 'aa')
+    3
+    """

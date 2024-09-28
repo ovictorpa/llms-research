@@ -1,0 +1,12 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def sum_product(numbers: List[int]) -> Tuple[int, int]:
+    """
+    For a given list of integers, return a tuple consisting of the sum and the product of all the integers in the list.
+    An empty sum should be equal to 0, and an empty product should be equal to 1.
+    
+    >>> sum_product([])
+    (0, 1)
+    >>> sum_product([1, 2, 3, 4])
+    (10, 24)
+    """

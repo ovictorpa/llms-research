@@ -1,0 +1,11 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def count_distinct_characters(string: str) -> int:
+    """
+    Given a string, find out how many distinct characters it consists of, regardless of case.
+    
+    >>> count_distinct_characters('xyzXYZ')
+    3
+    >>> count_distinct_characters('Jerry')
+    4
+    """

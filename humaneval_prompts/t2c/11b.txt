@@ -1,0 +1,10 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def string_xor(a: str, b: str) -> str:
+    """
+    Perform a binary XOR operation on two strings consisting only of 1s and 0s.
+    The result is returned as a string of 1s and 0s.
+    
+    >>> string_xor('010', '110')
+    '100'
+    """

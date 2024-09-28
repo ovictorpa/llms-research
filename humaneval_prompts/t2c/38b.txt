@@ -1,0 +1,26 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+from typing import List
+
+def encode_cyclic(s: str) -> str:
+    """
+    Encodes the input string by cycling characters within each group of three.
+    For each group of three characters, the function cycles the characters to the left.
+    Groups with fewer than three characters remain unchanged.
+
+    >>> encode_cyclic('abcdefg')
+    'bca defg'
+    >>> encode_cyclic('abcde')
+    'bca de'
+    """
+def decode_cyclic(s: str) -> str:
+    """
+    Decodes a string that was encoded with the encode_cyclic function.
+    Since encoding is a reversible operation, decoding is achieved by encoding the string twice.
+
+    >>> decode_cyclic('bca defg')
+    'abcdefg'
+    >>> decode_cyclic('bca de')
+    'abcde'
+    """
+

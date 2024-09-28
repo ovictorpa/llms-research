@@ -1,0 +1,15 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def change_base(x: int, base: int):
+    """
+    Change numerical base of input number x to base.
+    Return string representation after the conversion. Base numbers are less than 10.
+
+    >>> change_base(8, 3)
+    '22'
+    >>> change_base(8, 2)
+    '1000'
+    >>> change_base(7, 2)
+    '111'
+    """
+    ret = ""

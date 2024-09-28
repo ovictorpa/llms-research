@@ -1,0 +1,17 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def encrypt(s):
+    """
+    Create a function that takes a string `s` and returns a string encrypted with the alphabet rotated.
+    The alphabet is rotated such that each letter shifts down by four places (2 multiplied by 2).
+
+    Examples:
+    >>> encrypt('hi')
+    'lm'
+    >>> encrypt('asdfghjkl')
+    'ewhjklnop'
+    >>> encrypt('gf')
+    'kj'
+    >>> encrypt('et')
+    'ix'
+    """

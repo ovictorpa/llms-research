@@ -1,0 +1,32 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+import math
+from typing import Optional
+
+def is_prime(p: int) -> bool:
+    """
+    Check if a number is prime.
+    
+    >>> is_prime(2)
+    True
+    >>> is_prime(4)
+    False
+    >>> is_prime(5)
+    True
+    """
+
+def prime_fib(n: int) -> Optional[int]:
+    """
+    Returns the n-th number that is both a Fibonacci number and a prime.
+    
+    >>> prime_fib(1)
+    2
+    >>> prime_fib(2)
+    3
+    >>> prime_fib(3)
+    5
+    >>> prime_fib(4)
+    13
+    >>> prime_fib(5)
+    89
+    """

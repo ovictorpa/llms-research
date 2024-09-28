@@ -1,0 +1,10 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def largest_divisor(n: int) -> int:
+    """
+    For a given number n, find the largest number that divides n evenly, which is smaller than n.
+    
+    >>> largest_divisor(15)
+    5
+    """
+    # In case n is 1, the largest divisor smaller than n is 1

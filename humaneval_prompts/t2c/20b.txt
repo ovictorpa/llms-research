@@ -1,0 +1,13 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def find_closest_elements(numbers: List[float]) -> Tuple[float, float]:
+    """
+    From a supplied list of numbers (of length at least two), select and return the two numbers that are closest to each other.
+    The two numbers are returned in order (smaller number, larger number).
+    
+    >>> find_closest_elements([1.0, 2.0, 3.0, 4.0, 5.0, 2.2])
+    (2.0, 2.2)
+    >>> find_closest_elements([1.0, 2.0, 3.0, 4.0, 5.0, 2.0])
+    (2.0, 2.0)
+    """
+

@@ -1,0 +1,13 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+from typing import List, Any
+
+def filter_integers(values: List[Any]) -> List[int]:
+    """
+    Filter the given list of any Python values to return only the integers.
+    
+    >>> filter_integers(['a', 3.14, 5])
+    [5]
+    >>> filter_integers([1, 2, 3, 'abc', {}, []])
+    [1, 2, 3]
+    """

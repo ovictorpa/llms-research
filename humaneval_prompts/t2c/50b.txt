@@ -1,0 +1,22 @@
+Given the python function below and its description, create a unit test for it based on its operating instructions:
+
+def encode_shift(s: str):
+    """
+    Returns encoded string by shifting every character by 5 in the alphabet.
+
+    >>> encode_shift('abc')
+    'fgh'
+    >>> encode_shift('xyz')
+    'abc'
+    """
+
+def decode_shift(s: str):
+    """
+    Takes as input a string encoded with the encode_shift function.
+    Returns the decoded string.
+
+    >>> decode_shift('fgh')
+    'abc'
+    >>> decode_shift('abc')
+    'xyz'
+    """
