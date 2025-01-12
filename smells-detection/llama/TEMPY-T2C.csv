@@ -1,0 +1,3 @@
+#,Project,File,Path,Test Smell,Method,start,end
+1,14b.p,14b.py,C:/Users/antho/OneDrive/Área de Trabalho/llms-research/generated_tests/llama/t2c/,Conditional Test Logic,test_all_prefixes_ofMedium_string,14
+2,14b.p,14b.py,C:/Users/antho/OneDrive/Área de Trabalho/llms-research/generated_tests/llama/t2c/,Conditional Test Logic,test_all_prefixes_ofMedium_string,16

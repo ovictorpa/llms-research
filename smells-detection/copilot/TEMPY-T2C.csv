@@ -1,0 +1,36 @@
+#,Project,File,Path,Test Smell,Method,start,end
+1,109b.p,109b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 29
+2,10b.p,10b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 20
+3,119b.p,119b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 29
+4,12b.p,12b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 14
+5,13b.p,13b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 11
+6,14b.p,14b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 10
+7,15b.p,15b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 11
+8,17b.p,17b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 20
+9,18b.p,18b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 22
+10,19b.p,19b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 20
+11,1b.p,1b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 14
+12,20b.p,20b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 26
+13,21b.p,21b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 16
+14,23b.p,23b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 14
+15,24b.p,24b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 16
+16,25b.p,25b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,5, 34
+17,26b.p,26b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,5, 16
+18,29b.p,29b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 15
+19,2b.p,2b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 16
+20,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,5, 36
+21,37b.p,37b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 22
+22,38b.p,38b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 36
+23,39b.p,39b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,5, 57
+24,3b.p,3b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 6
+25,40b.p,40b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 27
+26,4b.p,4b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 10
+27,50b.p,50b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 26
+28,5b.p,5b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 14
+29,6b.p,6b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,5, 17
+30,7b.p,7b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 15
+31,80b.p,80b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 28
+32,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Verbose Test,numerical_letter_grade,3, 54
+33,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,3, 56
+34,8b.p,8b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 22
+35,9b.p,9b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/copilot/t2c/,Programming Paradigms Blend,,4, 21

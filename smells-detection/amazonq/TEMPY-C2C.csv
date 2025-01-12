@@ -1,0 +1,16 @@
+#,Project,File,Path,Test Smell,Method,start,end
+1,109a.p,109a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_negative_numbers,39
+2,12a.p,12a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,4, 13
+3,14a.p,14a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,4, 10
+4,15a.p,15a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,3, 6
+5,17a.p,17a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,4, 9
+6,18a.p,18a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,3, 13
+7,19a.p,19a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,3, 11
+8,1a.p,1a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_single_element,17
+9,1a.p,1a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,4, 13
+10,20a.p,20a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Programming Paradigms Blend,,4, 18
+11,26a.p,26a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_order_preservation,28
+12,32a.p,32a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_root_outside_initial_range,32
+13,40a.p,40a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_negative_numbers,24
+14,89a.p,89a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Unknown Test,test_with_punctuation,18
+15,8a.p,8a.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/c2c/,Exception Handling,test_sum_product,35

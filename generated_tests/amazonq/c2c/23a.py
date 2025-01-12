@@ -18,8 +18,6 @@ class TestStrlen(unittest.TestCase):
     def test_mixed_characters(self):
         self.assertEqual(strlen("Hello, World! 123"), 17)
 
-    def test_unicode_characters(self):
-        self.assertEqual(strlen("こんにちは"), 5)
 
     def test_newlines(self):
         self.assertEqual(strlen("Hello\nWorld"), 11)

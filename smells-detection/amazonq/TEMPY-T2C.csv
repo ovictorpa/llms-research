@@ -1,0 +1,72 @@
+#,Project,File,Path,Test Smell,Method,start,end
+1,109b.p,109b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 8
+2,109b.p,109b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,move_one_ball,6
+3,10b.p,10b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_make_palindrome_with_punctuation,53
+4,10b.p,10b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_make_palindrome_case_sensitivity,55
+5,10b.p,10b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 21
+6,119b.p,119b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 7
+7,11b.p,11b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 14
+8,12b.p,12b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 20
+9,13b.p,13b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 15
+10,14b.p,14b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 14
+11,15b.p,15b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 15
+12,17b.p,17b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 20
+13,18b.p,18b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 17
+14,19b.p,19b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 15
+15,1b.p,1b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_single_element,21
+16,1b.p,1b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 11
+17,20b.p,20b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 17
+18,21b.p,21b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 9
+19,21b.p,21b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,rescale_to_unit,7
+20,22b.p,22b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 9
+21,22b.p,22b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,filter_integers,7
+22,24b.p,24b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 8
+23,24b.p,24b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,largest_divisor,6
+24,25b.p,25b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,5, 10
+25,25b.p,25b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,factorize,8
+26,26b.p,26b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_multiple_duplicates,23
+27,26b.p,26b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,5, 10
+28,26b.p,26b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,remove_duplicates,8
+29,2b.p,2b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_single_group,21
+30,2b.p,2b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_multiple_simple_groups,26
+31,2b.p,2b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 14
+32,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_poly_cubic,31
+33,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_poly_zero_x,36
+34,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_find_zero_verify,58
+35,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,5, 15
+36,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,poly,8
+37,32b.p,32b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,find_zero,13
+38,37b.p,37b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 9
+39,37b.p,37b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,sort_even,7
+40,38b.p,38b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_encode_multiple_groups,27
+41,38b.p,38b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 14
+42,38b.p,38b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,encode_cyclic,7
+43,38b.p,38b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,decode_cyclic,12
+44,39b.p,39b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Conditional Test Logic,test_prime_fib_properties,50
+45,39b.p,39b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,5, 15
+46,39b.p,39b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,is_prime,8
+47,39b.p,39b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,prime_fib,13
+48,3b.p,3b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 13
+49,40b.p,40b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 9
+50,40b.p,40b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,triples_sum_to_zero,7
+51,4b.p,4b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_example_case,18
+52,4b.p,4b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 17
+53,50b.p,50b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_decode_shift_mixed_case,43
+54,50b.p,50b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 13
+55,50b.p,50b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,encode_shift,6
+56,50b.p,50b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,decode_shift,11
+57,5b.p,5b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 16
+58,6b.p,6b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 17
+59,7b.p,7b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 16
+60,80b.p,80b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 8
+61,80b.p,80b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,is_happy,6
+62,81b.p,81b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 8
+63,81b.p,81b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,numerical_letter_grade,6
+64,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_example_2,12
+65,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_example_4,17
+66,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,3, 8
+67,89b.p,89b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Non-Functional Statement,encrypt,6
+68,8b.p,8b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_example_case,21
+69,8b.p,8b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Unknown Test,test_single_element,23
+70,8b.p,8b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 17
+71,9b.p,9b.py,C:/Users/antho/OneDrive/햞ea de Trabalho/llms-research/generated_tests/amazon/t2c/,Programming Paradigms Blend,,4, 14

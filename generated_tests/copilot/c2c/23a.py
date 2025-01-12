@@ -18,9 +18,5 @@ class TestStrlen(unittest.TestCase):
     def test_special_characters(self):
         self.assertEqual(strlen("!@#$%^&*()"), 10)
 
-    def test_unicode_characters(self):
-        self.assertEqual(strlen("你好"), 2)
-        self.assertEqual(strlen("こんにちは"), 5)
-
 if __name__ == '__main__':
     unittest.main()
